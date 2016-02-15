@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/config": "~2.7",
+        "phpunit/phpunit": "^4"
+    }
+}
